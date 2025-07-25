@@ -5,7 +5,7 @@
 
 Este proyecto es una aplicación web sencilla para gestionar una lista de tareas. Permite agregar tareas, marcar tareas como realizadas, eliminar tareas y mantener un historial de tareas eliminadas.
 
-La aplicación está desarrollada usando JavaScript, HTML5 y CSS3, demostrando el uso de estructuras de datos, control de flujo, eventos, y manipulación dinámica del DOM.
+La aplicación está desarrollada usando JavaScript, HTML y CSS, demostrando el uso de estructuras de datos, control de flujo, eventos, y manipulación dinámica del DOM.
 
 ---
 
@@ -32,9 +32,9 @@ JavaScript es un lenguaje de programación que permite añadir interactividad y 
 
 ## Tecnologías usadas
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- HTML
+- CSS
+- JavaScript 
 - Git y GitHub para control de versiones
 
 ## Cómo ejecutar el proyecto
