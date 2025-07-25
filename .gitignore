@@ -1,2 +1,21 @@
-# Excluir imágenes por ahora
+# Ignorar imágenes en assets/img/
 assets/img/
+
+# Ignorar archivos del sistema (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales de editores
+*.swp
+*.swo
+*.tmp
+
+# Node.js (por si usas)
+node_modules/
+
+# Logs
+*.log
+
+# Archivos de configuración de IDEs (opcional)
+.vscode/
+.idea/
