@@ -1,0 +1,108 @@
+/* Reset básico */
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3d10e2;
+  margin: auto;
+  color: #c93333;
+} 
+
+/* Título */
+/* h1, h2 {
+  margin-bottom: 15px;
+  color: #222;
+} */
+
+/* Formulario */
+/* form {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+} */
+
+/* form input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+form input[type="text"]:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+
+form button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #0056b3;
+} */
+
+/* Mensajes de error */
+/* #mensaje {
+  margin-top: 5px;
+  font-size: 0.9rem;
+} */
+
+/* Listas */
+/* ul {
+  list-style-type: none;
+  margin-bottom: 30px;
+  padding-left: 0;
+} */
+
+/* Items de tareas */
+/* li {
+  background-color: white;
+  padding: 12px 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  font-size: 1rem;
+} */
+
+/* Botones dentro de las tareas */
+/* li button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  margin-left: 10px;
+  transition: color 0.3s ease;
+}
+
+li button:hover {
+  color: #007BFF;
+} */
+
+/* Texto para tareas realizadas */
+ul#listaTareasRealizadas li {
+  text-decoration: line-through;
+  color: #777;
+} 
+
+/* Texto para tareas eliminadas */
+ ul#listaTareasEliminadas li {
+  color: #b00020;
+  font-style: italic;
+} 
